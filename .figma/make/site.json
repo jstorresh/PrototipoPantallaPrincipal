@@ -1,0 +1,10 @@
+{
+  "description": "Create low-fidelity prototypes for web and mobile applications, enabling designers and developers to visualize concepts quickly and efficiently.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
